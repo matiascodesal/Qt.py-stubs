@@ -1,0 +1,14 @@
+.venv/
+.idea/
+__pycache__/
+pyu-data/
+.pyupdate/
+build/**
+dist/**
+*.py[cod]
+*.wixobj
+*.wixpdb
+*.msi
+*.psd
+*.log
+keypack.pyu
